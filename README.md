@@ -1,3 +1,4 @@
 # Hello World
 Begin to use github to manage versions of codes
-I'm testing the usage of commit!
+To test the usage of commit!
+Add a new line.
